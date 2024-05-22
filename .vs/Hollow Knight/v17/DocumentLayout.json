@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\Hollow Knight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\secrets\\shieldsecret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\secrets\\shieldsecret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|d:\\unity\\hollow knight\\assets\\scripts\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\victory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\globalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\switch\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switch\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\hud\\hudloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\hudloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\trap\\movingtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap\\movingtrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\hud\\healthdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\healthdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|D:\\unity\\Hollow Knight\\assets\\scripts\\hud\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1543764-0DA4-E273-0056-DE172242F44A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Victory.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Victory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Victory.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Victory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Victory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:52:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShieldSecret.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Secrets\\ShieldSecret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Secrets\\ShieldSecret.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Secrets\\ShieldSecret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Secrets\\ShieldSecret.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:42:12.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Settings\\Settings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\Settings.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Settings\\Settings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Settings\\Settings.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:13:41.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAK4BAAAAAAAAAAAMwNABAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:25:38.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextLevel.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:31:02.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalController.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\GlobalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GlobalController.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\GlobalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GlobalController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:30:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:30:53.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HUDLoader.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HUDLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\HUDLoader.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HUDLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD\\HUDLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:30:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Switch\\Switch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Switch\\Switch.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Switch\\Switch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Switch\\Switch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:30:36.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovingTrap.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Trap\\MovingTrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap\\MovingTrap.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Trap\\MovingTrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap\\MovingTrap.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:41:14.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwBwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:49:56.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\HUD.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD\\HUD.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:09:50.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HealthDisplay.cs",
+              "DocumentMoniker": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HealthDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\HealthDisplay.cs",
+              "ToolTip": "D:\\unity\\Hollow Knight\\Assets\\Scripts\\HUD\\HealthDisplay.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\HUD\\HealthDisplay.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:42:17.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
